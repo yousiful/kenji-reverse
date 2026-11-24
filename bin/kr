@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /c/Users/y_you/tools/rea-run/node_modules/node/bin/node.exe /c/Users/y_you/tools/kenji-reverse/bin/kr.mjs "$@"

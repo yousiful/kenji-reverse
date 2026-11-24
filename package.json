@@ -1,0 +1,11 @@
+{
+  "name": "kenji-reverse",
+  "version": "1.0.0",
+  "description": "Reverse engineer any funnel, page or web app from real evidence, then build your own. Claude Code skill + zero-dependency CLI.",
+  "type": "module",
+  "bin": { "kr": "bin/kr.mjs" },
+  "engines": { "node": ">=22" },
+  "license": "MIT",
+  "author": "KenjiAI (https://kenjiai.com)",
+  "keywords": ["reverse-engineering", "funnel", "claude-code", "skill", "marketing", "cdp"]
+}
